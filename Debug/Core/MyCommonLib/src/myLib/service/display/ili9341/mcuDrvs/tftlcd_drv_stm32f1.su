@@ -1,0 +1,13 @@
+tftlcd_drv_stm32f1.c:14:6:LCD_GPIO_Init	4	static
+tftlcd_drv_stm32f1.c:17:6:LCD_setCS	4	static
+tftlcd_drv_stm32f1.c:22:6:LCD_setRS	4	static
+tftlcd_drv_stm32f1.c:27:6:LCD_setSDA	4	static
+tftlcd_drv_stm32f1.c:32:6:LCD_setSCL	4	static
+tftlcd_drv_stm32f1.c:37:6:LCD_setRST	4	static
+tftlcd_drv_stm32f1.c:42:6:LCD_setLED	4	static
+tftlcd_drv_stm32f1.c:47:6:LCD_resetCS	4	static
+tftlcd_drv_stm32f1.c:52:6:LCD_resetRS	4	static
+tftlcd_drv_stm32f1.c:57:6:LCD_resetSDA	4	static
+tftlcd_drv_stm32f1.c:62:6:LCD_resetSCL	4	static
+tftlcd_drv_stm32f1.c:67:6:LCD_resetRST	4	static
+tftlcd_drv_stm32f1.c:72:6:LCD_resetLED	4	static

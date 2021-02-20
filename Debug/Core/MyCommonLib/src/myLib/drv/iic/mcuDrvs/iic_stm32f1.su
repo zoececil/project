@@ -1,0 +1,4 @@
+iic_stm32f1.c:5:6:iic_T_write_oneaddr	32	static
+iic_stm32f1.c:9:6:iic_R_read_oneaddr	32	static
+iic_stm32f1.c:13:6:iic_T_write_twoaddr	40	static
+iic_stm32f1.c:17:6:iic_R_read_twoaddr	40	static

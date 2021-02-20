@@ -1,0 +1,2 @@
+uart_stm32f1.c:16:6:HAL_UART_RxCpltCallback	16	static
+uart_stm32f1.c:46:6:sendpro	4	static
