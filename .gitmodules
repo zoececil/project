@@ -1,0 +1,3 @@
+[submodule "Core/MyCommonLib"]
+	path = Core/MyCommonLib
+	url = https://github.com/zoececil/MyCommonLib.git
