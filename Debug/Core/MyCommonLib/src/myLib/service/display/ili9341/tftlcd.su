@@ -1,5 +1,5 @@
 tftlcd.c:6:6:LCD_Init	8	static
-tftlcd.c:123:7:LCD_Write_spi	24	static
+tftlcd.c:137:6:LCD_Write_spi	16	static
 tftlcd.c:141:6:LCD_WriteIndex	16	static
 tftlcd.c:148:6:LCD_WriteData8Bit	16	static
 tftlcd.c:155:6:LCD_WriteData16Bit	16	static
