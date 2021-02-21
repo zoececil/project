@@ -1,2 +1,2 @@
-mycode.c:4:6:tftlcdTest	4	static
-mycode.c:14:6:mylogic	8	static
+mycode.c:4:6:tftlcdTest	8	static
+mycode.c:8:6:mylogic	4	static

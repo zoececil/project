@@ -3,13 +3,7 @@
 
 void tftlcdTest(void)
 {
-//	LCD_Init();
-//	while(1){
-//	LCD_LED_SET;
-//	Color_Test();
-//	myDelayMS(1500);
-//	LCD_LED_CLR;
-//	}
+	Test_Demo();
 }
 void mylogic(void)
 {
@@ -20,7 +14,7 @@ void mylogic(void)
 //
 	while(1)
 	{
-		Test_Demo();
+
 //		num = keypad_scan();
 //		printf("%d\r\n",num);
 	}

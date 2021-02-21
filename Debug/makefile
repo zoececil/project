@@ -18,6 +18,7 @@ RM := rm -rf
 -include Core/MyCommonLib/src/myLib/drv/uart/mcuDrvs/subdir.mk
 -include Core/MyCommonLib/src/myLib/drv/spi/mcuDrvs/subdir.mk
 -include Core/MyCommonLib/src/myLib/drv/iic/mcuDrvs/subdir.mk
+-include Core/MyCommonLib/src/myLib/drv/gpio/mcuDrvs/subdir.mk
 -include Core/MyCommonLib/src/myLib/drv/commonDrv/mcuDrvs/subdir.mk
 -include Core/MyCommonLib/Demo/SrcDemo/subdir.mk
 -include Core/MyCode/subdir.mk

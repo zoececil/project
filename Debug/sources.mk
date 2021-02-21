@@ -23,6 +23,7 @@ SUBDIRS := \
 Core/MyCode \
 Core/MyCommonLib/Demo/SrcDemo \
 Core/MyCommonLib/src/myLib/drv/commonDrv/mcuDrvs \
+Core/MyCommonLib/src/myLib/drv/gpio/mcuDrvs \
 Core/MyCommonLib/src/myLib/drv/iic/mcuDrvs \
 Core/MyCommonLib/src/myLib/drv/spi/mcuDrvs \
 Core/MyCommonLib/src/myLib/drv/uart/mcuDrvs \

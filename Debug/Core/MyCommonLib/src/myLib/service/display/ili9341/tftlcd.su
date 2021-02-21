@@ -5,7 +5,13 @@ tftlcd.c:148:6:LCD_WriteData8Bit	16	static
 tftlcd.c:155:6:LCD_WriteData16Bit	16	static
 tftlcd.c:160:6:LCD_Reset	8	static
 tftlcd.c:167:6:LCD_Clear	24	static
-tftlcd.c:181:6:LCD_SetXY	16	static
-tftlcd.c:190:6:LCD_SetRegion	24	static
-tftlcd.c:201:6:Color_Test	16	static
-tftlcd.c:218:6:Test_Demo	8	static
+tftlcd.c:181:6:LCD_Fill	32	static
+tftlcd.c:195:6:LCD_SetXY	16	static
+tftlcd.c:204:6:LCD_SetRegion	24	static
+tftlcd.c:214:6:LCD_DisplayON	4	static
+tftlcd.c:219:6:LCD_DisplayOFF	4	static
+tftlcd.c:224:6:LCD_DrawPoint	16	static
+tftlcd.c:229:6:LCD_DrawLine	56	static
+tftlcd.c:290:6:LCD_DrawCircle	32	static
+tftlcd.c:329:6:Color_Test	16	static
+tftlcd.c:345:6:Test_Demo	16	static

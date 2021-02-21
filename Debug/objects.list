@@ -2,6 +2,7 @@
 "Core/MyCommonLib/Demo/SrcDemo/keypadsrc.o"
 "Core/MyCommonLib/src/myLib/drv/commonDrv/mcuDrvs/commonDrv_stm32f1.o"
 "Core/MyCommonLib/src/myLib/drv/commonDrv/mcuDrvs/commonDrv_stm32h7.o"
+"Core/MyCommonLib/src/myLib/drv/gpio/mcuDrvs/gpio_stm32f1.o"
 "Core/MyCommonLib/src/myLib/drv/iic/mcuDrvs/iic_stm32f1.o"
 "Core/MyCommonLib/src/myLib/drv/iic/mcuDrvs/iic_stm32h7.o"
 "Core/MyCommonLib/src/myLib/drv/spi/mcuDrvs/spi_stm32f1.o"
